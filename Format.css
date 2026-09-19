@@ -1,10 +1,8 @@
+
 .bigblock{
     width: 585px;
     padding: 1px 50px 1px 50px;
     background-color: #98cdff;
-}
-input[type="radio"] {
-    accent-color: green;
 }
 .logo{
     margin: 0px auto 0px auto;
@@ -53,6 +51,9 @@ textarea{
 }
 td{
     vertical-align: top;
+}
+input[type="radio"] {
+    accent-color: green;
 }
 
 .button{
