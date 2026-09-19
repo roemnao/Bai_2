@@ -1,0 +1,58 @@
+
+.bigblock{
+    width: 585px;
+    padding: 1px 50px 1px 50px;
+    background-color: #98cdff;
+}
+.logo{
+    margin: 0px auto 0px auto;
+    text-align: center;
+    border: 1px solid black;
+    width: 250px;
+    background-color: #01ffff;
+    border-radius: 12px;
+    box-shadow: 5px 5px #8fa3be;
+}
+.logo hr{
+    border: none;
+    height: 5px;
+    background-color: black;
+    margin: 0;
+}
+.fRow{
+    width: 200px;
+}
+.lti{
+    width: 235px;
+}
+.mti{
+    width: 170px;
+}
+.sti{
+    width: 120px;
+}
+h1,p{
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+h2{
+    text-align: center;
+    margin: 25px 0px 25px 0px;
+}
+hr{
+    border: none;
+    height: 1px;
+    background-color: black;
+}
+textarea{
+    width: 100%;
+    height: 100px;
+}
+td{
+    vertical-align: top;
+}
+
+.button{
+    text-align: center;
+}
