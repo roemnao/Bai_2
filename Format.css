@@ -1,4 +1,6 @@
-
+body{
+    text-align: center;
+}
 .bigblock{
     width: 585px;
     padding: 1px 50px 1px 50px;
